@@ -1,0 +1,169 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'Times New Roman', Times, serif;
+}
+#heading{
+    margin-top: 20px;
+
+}
+#headc{
+    height:20px;
+    width: 100px;
+    background: red;
+    text-align: center;
+}
+#headc:hover  {
+    background: green;
+}
+.bar{
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    background: linear-gradient(red,blue,green,yellow,orange,white,brown);
+    position: fixed;
+}
+#align{
+    height: 50px;
+    width: 600px;
+    cursor: pointer;
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 25px;
+}
+a{
+    text-decoration: none;
+}
+#home{
+    height: 700px;
+    width: 100%;
+    background: rgb(214, 19, 149);
+    
+}
+#name{
+    padding-top: 270px;
+    text-align: center;
+    padding-bottom: 60px;
+    font-size: 50px;
+    font-family: monospace;
+}
+#bio{
+    height: 700px;
+    width: 100%;
+    background: rgb(152, 207, 221);
+    display: flex;
+}
+
+#ph1{
+    height: 300px;
+    width: 600px;
+    border-radius: 50%;
+    margin-top: 200px;
+    margin-left: 200px;
+    border: 3px solid black;
+}
+#bio1{
+    margin-left: 100px;
+    margin-top: 200px;
+}
+#myn{
+    font-size: 40px;
+    margin-left: 100px;
+    margin-top: 200px;
+}
+#data{
+    font-size: 30px;
+    margin-left: 100px;
+    margin-top: 10px;
+}
+#data1{
+    font-size: 30px;
+    margin-left: 100px;
+    margin-top: 20px;
+}
+#download{
+    
+    margin-left: 100px;
+    margin-top: 20px;
+    height: 100px;
+    width: 100px;
+    background: red;
+    text-align: center;
+    font-size: 30px;
+    border: 3px solid white;
+    border-color: rgb(8, 147, 189) green blue green;
+}
+#port{
+    height: 700px;
+    width: 100%;
+    background: rgb(74, 51, 177);
+}
+#port1{
+   padding-left: 600px;
+   padding-top: 100px;
+   
+}
+#port2{
+    height: 400px;
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 100px;
+}
+#p1{
+    height: 350px;
+    width: 400px;
+    background: rgb(197, 128, 128);
+}
+#circle{
+    margin-top: 20px;
+    margin-left: 170px;
+}
+#hd1{
+    text-align: center;
+    margin-top: 10px;
+}
+#para{
+    text-align: center;
+    font-size: 30px;
+    margin-top: 10px;
+}
+#skill{
+    height: 700px;
+    width: 100%;
+    background: rgb(180, 98, 109);
+}
+#ski{
+    text-align: center;
+    padding-top: 80px;
+    color: red;
+    
+}
+
+#sh{
+    margin-left: 40px;
+    margin-top: 30px;
+    
+}
+#dat{
+    margin-left:40px ;
+    border-style: groove;
+    margin-top: 10px;
+}
+#skill3{
+    display: flex;
+    justify-content: space-evenly;
+}
+#head{
+    margin-top: 30px;
+}
+#contact{
+    height: 300px;
+    padding-top: 100px;
+    width: 100%;
+    background-color: rgb(63, 161, 88);
+    text-align: center;
+}
+#n1{
+    margin-top: 10px;
+}
